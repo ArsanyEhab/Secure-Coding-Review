@@ -1,7 +1,6 @@
 # Secure Code Review Report
 
 ## Project Name: SecureLoginApp
-**Version**: 1.2.3  
 **Scope**: Authentication module and database queries  
 **Purpose**: Security audit to identify vulnerabilities in the authentication process
 
